@@ -3,8 +3,6 @@
 //   html_url: string,
 //   login: string,
 // }
-
-
 // async function fetchData(): Promise<User[]> {
   
   
