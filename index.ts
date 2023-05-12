@@ -12,6 +12,8 @@ interface User {
   total_count: number;
 }
 
+console.log("Hey Faizi");
+
 app.get('/users', async (req, res) => {
   try {
     const data = await fetchData();
